@@ -28,6 +28,7 @@ items:
  - replicatedhq/dockerfilelint
  - mvdan/sh
  - ansible/ansible-lint
+ - nvuillam/npm-groovy-lint
 display_name: Clean code linters
 created_by: holman
 ---

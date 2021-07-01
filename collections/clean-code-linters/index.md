@@ -29,6 +29,7 @@ items:
  - mvdan/sh
  - ansible-community/ansible-lint
  - dotenv-linter/dotenv-linter
+ - nvuillam/mega-linter
 display_name: Clean code linters
 created_by: holman
 ---
